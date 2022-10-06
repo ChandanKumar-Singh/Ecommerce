@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "259945473732",
+    "firebase_url": "https://my-cashbook-b853c-default-rtdb.firebaseio.com",
+    "project_id": "my-cashbook-b853c",
+    "storage_bucket": "my-cashbook-b853c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259945473732:android:e84c2db282750437b84b91",
+        "android_client_info": {
+          "package_name": "com.tds.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259945473732-tklv0t0mc4purjtso06ih0cqpik4lc9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tds.food_delivery_app",
+            "certificate_hash": "c70b402e024e39acc68721067d05f264db943324"
+          }
+        },
+        {
+          "client_id": "259945473732-nbm7oqlul2ef13neblafuoip1oh889tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlnbnkCfNnL1cHE0f4ILkBypL_XOD_Qt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259945473732-nbm7oqlul2ef13neblafuoip1oh889tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259945473732:android:4a9bf2318cf05fa4b84b91",
+        "android_client_info": {
+          "package_name": "com.tds.my_cashbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259945473732-nbm7oqlul2ef13neblafuoip1oh889tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlnbnkCfNnL1cHE0f4ILkBypL_XOD_Qt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259945473732-nbm7oqlul2ef13neblafuoip1oh889tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259945473732:android:150cc189e973ef8bb84b91",
+        "android_client_info": {
+          "package_name": "com.tds.my_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259945473732-dvh1vk2eul3p6bk03cuppo9qnqhbtlod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tds.my_ecommerce_app",
+            "certificate_hash": "c70b402e024e39acc68721067d05f264db943324"
+          }
+        },
+        {
+          "client_id": "259945473732-nbm7oqlul2ef13neblafuoip1oh889tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlnbnkCfNnL1cHE0f4ILkBypL_XOD_Qt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259945473732-nbm7oqlul2ef13neblafuoip1oh889tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
